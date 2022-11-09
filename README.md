@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TsukadaMas 
 - 👀 I’m interested in Game Development and Front End Development
-- 🌱 I’m currently learning VR Development Using Unity and Game Development Using Unreal Engine
-- 💞️ I’m looking to collaborate on Indie Games Using Unity
+- 🌱 I’m currently learning VR Development Using Unity and Game Development Using Unreal Engine and C++
+- 💞️ I’m looking to collaborate on Games and to learn more about the game industry
 - 📫 How to reach me tsukada.m@hotmail.com or via discord: tsukada.m#2601
 
 <!---
